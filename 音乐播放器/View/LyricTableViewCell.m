@@ -23,7 +23,7 @@
     self.backgroundColor=[UIColor clearColor];
     self.selectionStyle = UITableViewCellSelectionStyleNone;
     
-    self.labelMain = [UILabel new];
+    self.labelMain = [SKYLabel new];
     _labelMain.textAlignment = NSTextAlignmentCenter;
     _labelMain.font = [UIFont systemFontOfSize:15];
     _labelMain.textColor = [UIColor whiteColor];
