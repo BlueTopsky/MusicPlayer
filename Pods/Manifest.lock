@@ -1,0 +1,15 @@
+PODS:
+  - DOUAudioStreamer (0.2.15)
+  - Masonry (1.0.1)
+
+DEPENDENCIES:
+  - DOUAudioStreamer (~> 0.2.15)
+  - Masonry (~> 1.0.1)
+
+SPEC CHECKSUMS:
+  DOUAudioStreamer: 14f217bab01b52171fc2bd7d96e1f8fdd50fce68
+  Masonry: a1a931a0d08870ed8ae415a2ea5ea68ebcac77df
+
+PODFILE CHECKSUM: 520a2eab29e06153929e8ceeea4547a9e0f476fe
+
+COCOAPODS: 1.0.1
