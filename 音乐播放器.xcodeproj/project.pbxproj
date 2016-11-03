@@ -387,7 +387,6 @@
 				TargetAttributes = {
 					775BA05D1DC1C9AE00805B1E = {
 						CreatedOnToolsVersion = 8.0;
-						DevelopmentTeam = C5BS2BPRLK;
 						ProvisioningStyle = Automatic;
 						SystemCapabilities = {
 							com.apple.BackgroundModes = {
@@ -684,7 +683,7 @@
 			baseConfigurationReference = 400E444E76D941B25850C0AA /* Pods-音乐播放器.debug.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				DEVELOPMENT_TEAM = C5BS2BPRLK;
+				DEVELOPMENT_TEAM = "";
 				INFOPLIST_FILE = "音乐播放器/Info.plist";
 				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
@@ -698,7 +697,7 @@
 			baseConfigurationReference = 75B63C08388DB43FC6F1DCF4 /* Pods-音乐播放器.release.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				DEVELOPMENT_TEAM = C5BS2BPRLK;
+				DEVELOPMENT_TEAM = "";
 				INFOPLIST_FILE = "音乐播放器/Info.plist";
 				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
